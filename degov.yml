@@ -3,7 +3,7 @@ logo: https://raw.githubusercontent.com/darwinia-network/devops/refs/heads/main/
 description: The DAO governed by KTON token holders.
 links:
   website: https://kton-staking-v2.darwinia.network/
-  github: https://github.com/darwinia-network/KtonDAO/discussions
+  github: https://github.com/ktondao
 
 wallet:
   walletConnectProjectId: 265a3e6100e658324e44fd09cad26c94
