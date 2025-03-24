@@ -21,7 +21,7 @@ chain:
     decimals: 18
 
 indexer:
-  endpoint: https://ktondao-gov.ringdao.com/indexer/graphql
+  endpoint: https://gov.ktondao.xyz/indexer/graphql
   startBlock: 3320858
   rpc: wss://rpc.darwinia.network
 
